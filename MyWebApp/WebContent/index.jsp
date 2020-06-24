@@ -9,5 +9,6 @@
 <body>
 <h1>This is Remote Repo portal</h1>
 <p>Created ine eclipse...pushing into git</p>
+<a href="Customerdetails">Go to Customerdetails<</a>
 </body>
 </html>
